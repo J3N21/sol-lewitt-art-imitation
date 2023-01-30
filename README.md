@@ -1,2 +1,2 @@
-# Sol LeW itt Art Replica
-Project replicating a Sol LeWitt piece
+# Sol LeWitt Art Imitation
+Project imitates a Sol LeWitt piece
